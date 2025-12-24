@@ -11,5 +11,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkmdevel)](https://solved.ac/kkmdevel)
 <br />
 <br />
-
-
